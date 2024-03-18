@@ -1,0 +1,13 @@
+{
+  "fromEmailAddress": "druthvik@electems.com",
+  "templatesFilePath": "../../templates/",
+  "emailAuthUser": "shashi@electems.com",
+  "emailAuthPass": "cybRVE12#",
+  "emailHost": "mail.electems.com",
+  "emailPort": "465",
+  "loginEmailSubject": "cinemaDBS",
+  "loginEmailTemplate": "login",
+  "birthdayTemplate": "birthday",
+  "registredFilmInstituteSubject": "Trainig Film Intitute Registration",
+  "filmInstituteTemplate": "training_institute"
+}

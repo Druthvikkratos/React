@@ -1,0 +1,23 @@
+[
+    {
+        "key": "1dfc1521-554f-4c3b-8703-aa85ced9725c",
+        "title": "Kollywood",
+        "isLeaf": false,
+        "children": [
+            {
+                "key": "48d83c3b-1193-4fd3-8e2e-bdc5de4e4434",
+                "title": "Actor",
+                "isLeaf": false,
+                "parent": "1dfc1521-554f-4c3b-8703-aa85ced9725c",
+                "children": []
+            },
+            {
+                "key": "07b9e9b8-252b-4ee4-b110-e46a7428ee22",
+                "title": "Actress",
+                "isLeaf": false,
+                "parent": "1dfc1521-554f-4c3b-8703-aa85ced9725c",
+                "children": []
+            }
+        ]
+    }
+]
